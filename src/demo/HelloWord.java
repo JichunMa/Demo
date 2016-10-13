@@ -8,7 +8,12 @@ package demo;
  * @return  
  */
 public class HelloWord {
+	
+	private static Test1 t;
+	
 	public static void main(String[] args) {
+		t = new Test1();
+		t.hello();
 		System.out.println("helloword!!!");
 	}
 }
