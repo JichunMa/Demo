@@ -14,6 +14,6 @@ public class HelloWord {
 	public static void main(String[] args) {
 		t = new Test1();
 		t.hello();
-		System.out.println("helloword!!!");
+		System.out.println("hello word!!!");
 	}
 }
