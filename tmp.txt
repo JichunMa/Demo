@@ -1,3 +1,7 @@
 initinitinitinitinitinitinitinitinitinitinit
+<<<<<<< HEAD
 1
 2
+=======
+1 对于1后面追加点修改
+>>>>>>> 1
