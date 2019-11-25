@@ -2,3 +2,5 @@ initinitinitinitinitinitinitinitinitinitinit
 1
 2
 3 通过 rebase -i 进行的修改
+4
+>>>>>>> be51ef0... commit 4
